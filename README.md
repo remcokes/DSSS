@@ -51,9 +51,9 @@ __Home page / index.html__<br>
 ### Mockups
 The following wireframes were created using Balsamiq to design the website layout options:
 <br>
-[Small devices](assets/mockups/YogaCitySmall.pdf)<br>
-[Medium devices](assets/mockups/YogaCityMedium.pdf)<br>
-[Large devices](assets/mockups/YogaCityLarge.pdf)
+[Small devices](assets/mockups/DSSS_Small.pdf)<br>
+[Medium devices](assets/mockups/DSSS_Medium)<br>
+[Large devices](assets/mockups/DSSS_Large.pdf)
 
 ## Features
 The webpage consists of the following features:<br><br>
