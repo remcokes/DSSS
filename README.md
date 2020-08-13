@@ -1,8 +1,8 @@
 # Dutch Speed Surf Spots
 
 ## Demo
-![](assets/screenshots/website.gif)
-[Live website](https://kimkesdev.github.io/YogaCity/.)
+![](assets/screenshots/website.png)
+[Live website](https://remcokes.github.io/DSSS/)
 
 ## UX
 
