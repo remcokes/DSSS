@@ -112,6 +112,8 @@ Through the _Google Chrome Developer Tools_ I tested the following types:<br>
   <li>iPhone 6/7/8 Plus (portrait: 414x736 & landscape: 736x414)
   <li>iPad (portrait: 768x1024 & landscape: 1024x768)
   <li>iPad Pro (portrait: 1024x1366 & landscape: 1366x1024)
+  <li>Surface Duo (portrait: 450x500 & landscape 600x450)
+  <li>Galaxy Fold (portrait: 280x653 & landscape 653x280)
 </ul>
 
 This site was also tested in [Responsinator](https://www.responsinator.com/).<br>
