@@ -12,7 +12,7 @@
 <strong>User Story 1:</strong> Inexperienced people who want to start practicing yoga.<br>
 
 ### Strategy
-This website is for people
+This site has been created to show the best windsurfing spots in the Netherlands. And especially the windsurf spots where you can speed surf. For each spot it is described what the best conditions are there and what else you should take into account. Speed surfing is actually normal windsurfing but with a GPS system so you can see how fast you are going. As a result, most speed surfers are looking for the ideal surf spot to go as fast as possible. On this DSSS site you will find useful explanations to ensure that you choose the right spot.
 
 ### Scope 
 The website is easy to read and easy to use.
