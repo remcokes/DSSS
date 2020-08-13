@@ -1,7 +1,7 @@
 # Dutch Speed Surf Spots
 
 ## Demo
-![](assets/screenshots/website.png)
+![](assets/screenshots/website.jpg)
 [Live website](https://remcokes.github.io/DSSS/)
 
 ## UX
