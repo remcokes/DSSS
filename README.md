@@ -20,7 +20,7 @@ This site has been created to show the best windsurfing spots in the Netherlands
 <br><br>
 
 ### Scope 
-General information, windsurf locations, contact and social media links.
+General information, windsurf locations, clock, Google map, contact and social media links.
 And for the Javascript order:
 - a clock with a external javascript /DSSS/assets/script/js/script_clock.js
 - a map with a external javascript /DSSS/assets/script/js/map_clock.js
@@ -29,6 +29,13 @@ And for the Javascript order:
 
 ### Structure
 Every page has
+<ul>
+    <li><strong>Header</strong> with the title and a menu for al the locations
+    <li><strong>Intro block</strong> information about the site and a intro-title with a mousOver javascript and the whole title block has a lightTheme with 2 color "Olive" and "Apple"
+    <li><strong>Clock</strong> A clock for the time. This is part of the Milestone 2 project. The assignment is to process javascripts in the website. I also think it's a cool addition to the site.
+    <li><strong>A google map</strong> All 8 speedsurf locations are indicated on the Google map. If you click on the location you will also see the name of the surf spot. The purpose of this map is to show the surf spot location.
+    <li><strong>8 descriptions of each surf spot with a photo</strong> A detailed description for each location.
+</ul>
 
 ### Skeleton
 __Header:__ <br>
