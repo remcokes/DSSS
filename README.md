@@ -22,7 +22,10 @@ This site has been created to show the best windsurfing spots in the Netherlands
 ### Scope 
 General information, windsurf locations, contact and social media links.
 And for the Javascript order:
-- a clock with a external script /DSSS/assets/script/
+- a clock with a external javascript /DSSS/assets/script/js/script_clock.js
+- a map with a external javascript /DSSS/assets/script/js/map_clock.js
+- a mouseOver javascript for the "DUTCH SPEED SURFING SPOTS" intro-title located in the index.html
+- a lightTheme javascript for the intro-container. The javascript is located in the index.html
 
 ### Structure
 Every page has
