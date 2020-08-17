@@ -178,13 +178,13 @@ Inside the <strong>assets</strong> map I created five new maps:
 </ul>
 Inside the <strong>css</strong> map is the css style sheet called <strong>style.css</strong>.<br>
 Inside the <strong>images</strong> map are all the images used on the website.<br>
-Inside the <strong>js</strong> map are the three JavaScript sheets with the Google Maps information.<br>
+Inside the <strong>js</strong> map are the two JavaScript sheets with the Google Maps information and the clock information.<br>
 Inside the <strong>mockups</strong> map are the three mockups for small, medium and large devices.<br>
 Inside the <strong>screenshots</strong> map are all screenshots used in the README.md.<br>
 Ending with the README.md
 
 ### Deployment left to be implemented
-After this page is checked by the examinators, I will make the locations pages private in GitHub for the protection of my API key's.
+After this page is checked by the examinators, I will make the index page private in GitHub for the protection of my API key's.
 
 ### New Repository in GitHub
 First you need an account on [GitHub](https://github.com) which you can download from [here](https://desktop.github.com).<br>
