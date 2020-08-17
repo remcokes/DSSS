@@ -86,7 +86,7 @@ Radio buttons, to choose the preferred options.<br>
 The form has required text fields for the name and email address.
 <br><br>
 __Bootstrap Icons__<br>
-All grey icons are used in the footer for social media, phone and email, linked to the right place.<br>
+All grey icons are used in the footer for social media, linked to the right place.<br>
 In the fixed header is a home icon, linked to the _index.html_.<br>
 In the fixed header is a _hamburger_ icon only on small and medium devices.<br>
 Next to a lot of titles is a playful icon, they are not linked.
