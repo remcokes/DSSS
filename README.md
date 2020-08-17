@@ -12,18 +12,17 @@ This site has been created to show the best windsurfing spots in the Netherlands
 
 <strong>User Story 1:</strong> People who search for a speedsurfing spot in the Netherlands
 <br><br>
-<strong>User Story 2:</strong> Some advanced speedsurfer who search a speedsurfing spot nearby <br><br>
-<strong>User Story 3:</strong> Some speedsurfer who want to learn what the best conditions are on the speedsurfing spot that the site describe
+<strong>User Story 2:</strong> Speedsurfer who need help finding the right surf spot <br><br>
+<strong>User Story 3:</strong> Some advanced speedsurfer who search a speedsurfing spot nearby <br><br>
+<strong>User Story 4:</strong> Some speedsurfer who want to learn what the best conditions are on the speedsurfing spot that the site describe
 <br><br>
-<strong>User Story 4:</strong> A surfer who wants to start speed surfing 
+<strong>User Story 5:</strong> A surfer who wants to start speed surfing 
 <br><br>
-<strong>User Story 5:</strong> Good windsurfers who want to learn loops<br><br>
-<strong>User Story 6:</strong> Good windsurfers who want to learn race techniques
-<br><br>
-<strong>User Story 7:</strong> Good windsurfers who want to bring his or her skills to a next level<br>
 
 ### Scope 
-The website is easy to read and easy to use.
+General information, windsurf locations, contact and social media links.
+And for the Javascript order:
+- a clock with a external script /DSSS/assets/script/
 
 ### Structure
 Every page has
