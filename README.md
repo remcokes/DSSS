@@ -29,12 +29,17 @@ And for the Javascript order:
 
 ### Structure
 <ul>
-    <li><strong>Header</strong> with the title and a menu for al the locations
-    <li><strong>Intro block</strong> information about the site and a intro-title with a mousOver javascript and the whole title block has a lightTheme with 2 color "Olive" and "Apple"
-    <li><strong>Clock</strong> A clock for the time. This is part of the Milestone 2 project. The assignment is to process javascripts in the website. I also think it's a cool addition to the site.
-    <li><strong>A google map</strong> All 8 speedsurf locations are indicated on the Google map. If you click on the location you will also see the name of the surf spot. The purpose of this map is to show the surf spot location.
-    <li><strong>8 descriptions of each surf spot with a photo</strong> A detailed description for each location.
-      <li><strong>Footer</strong><br>
+    <li><strong>Header</strong> <br>
+        with the title and a menu for al the locations
+    <li><strong>Intro block</strong><br>
+        information about the site and a intro-title with a mousOver javascript and the whole title block has a lightTheme with 2 color "Olive" and "Apple"
+    <li><strong>Clock</strong><br><br>
+        A clock for the time. This is part of the Milestone 2 project. The assignment is to process javascripts in the website. I also think it's a cool addition to the site.
+    <li><strong>A google map</strong><br>
+        All 8 speedsurf locations are indicated on the Google map. If you click on the location you will also see the name of the surf spot. The purpose of this map is to show the surf spot location.
+    <li><strong>8 descriptions of each surf spot with a photo</strong><br><br>
+        A detailed description for each location.
+     <li><strong>Footer</strong><br>
     In the footer the social media links will be found, which are external links.
 </ul>
 
