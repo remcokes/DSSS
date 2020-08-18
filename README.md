@@ -20,7 +20,7 @@ This site has been created to show the best windsurfing spots in the Netherlands
 <br><br>
 
 ### Scope 
-General information, windsurf locations, clock, Google map, contact and social media links.
+General information, windsurf locations, clock, Google map, social media links.
 And for the Javascript order:
 - a clock with a external javascript /DSSS/assets/script/js/script_clock.js
 - a map with a external javascript /DSSS/assets/script/js/map_clock.js
