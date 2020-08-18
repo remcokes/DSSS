@@ -10,14 +10,11 @@ This site has been created to show the best windsurfing spots in the Netherlands
 
 ### User Stories
 
-<strong>User Story 1:</strong> People who search for a speedsurfing spot in the Netherlands
-<br><br>
+<strong>User Story 1:</strong> People who search for a speedsurfing spot in the Netherlands <br><br>
 <strong>User Story 2:</strong> Speedsurfer who need help finding the right surf spot <br><br>
 <strong>User Story 3:</strong> Some advanced speedsurfer who search a speedsurfing spot nearby <br><br>
-<strong>User Story 4:</strong> Some speedsurfer who want to learn what the best conditions are on the speedsurfing spot that the site describe
-<br><br>
-<strong>User Story 5:</strong> A surfer who wants to start speed surfing 
-<br><br>
+<strong>User Story 4:</strong> Some speedsurfer who want to learn what the best conditions are on the speedsurfing spot that the site describe <br><br>
+<strong>User Story 5:</strong> A surfer who wants to start speed surfing <br><br>
 
 ### Scope 
 General information, windsurf locations, clock, Google map, social media links.
@@ -45,70 +42,79 @@ And for the Javascript order:
 
 ### Skeleton
 __Header:__ <br>
-Same fixed header on every page.<br>
+Fixed header <br>
 
 __Location_Menu:__ <br>
-On large devices: you see all the locations
-On medium and small devices: all locations are behind a hamburger menu
+On large devices: you see all the locations horizontal in the nav-bar. <br>
+On medium and small devices: all locations are in the hamburger menu which pops down. <br>
 
 __Clock:__ <br>
-I have made css rules to make the clock visible on every device
+I have made css rules to make the clock visible on every device. <br>
 
 __Maps:__ <br>
-On the Google map you see all the speedsurf locations with the name.
-It is visible on all the devices
+On the Google map you see all the speedsurf locations with the name. <br>
+It is visible on all the devices. <br>
 
 __Locations:__ <br>
-On large devices: you see all the locations with a photo on the right
-On medium and small devices: all locations are below each other and the photos in between 
+On large devices: you see all the locations with a photo on the right. <br>
+On medium and small devices: all locations are below each other and the photos in between.  <br>
 
 __Footer:__ <br>
-I have made css rules for the footer so that it has the correct format on all different devices
+I have made css rules for the footer so that it has the correct format on all different devices.
 
 ### Surface
-All text with font family: 'Noto Sans JP'.<br>
-All text with font color: #666666 (dark grey).<br>
-All titles with font color: #bf9b30 (gold)<br>
-Header image quote text in font color black.<br>
-![](assets/screenshots/%23BF9B30.PNG)
-![](assets/screenshots/%23C0C0C0.PNG)
-<br><br>
+All text with font family: arial, Helvetica, sans-serif <br>
+All text with font color: dark grey / #666666 <br>
 
 __Header__<br>
+Background color = light gray #E8E8E8 <br>
+Website title with font color: light green / rgb(214,230,214) and text-shadow dark grey / #666666 <br>
+
+__Intro__<br>
+Intro-title with font color: black with text-shadow dark grey / #666666. When mouse over font color: white with text-shadow dark grey / #666666 <br>
+Color theme background-color olive or apple. Olive = rgb(181,196,151), apple = rgb(40,189,60) <br>
+
+__Clock__<br>
+Clock color: white with light gray border <br>
+Clock hands: white <br>
+Background color: water image <br>
+
+__Map__<br>
+Full with map on all sizes. <br>
+Red marker for each location. <br>
+When clicked you see a pop-up with the location name. <br>
+
+__Locations__<br>
+Three repeating colors: dark green / rgb(181,196,151), light gray / #E8E8E8, light green / rgb(214,230,214). <br>
+Each location has a marker in front of the location name. The marker matches with the marker on the Google Map. <br>
+The text area's and the images are the same size. <br>
 
 __Footer__<br>
-
-__Home page / index.html__<br>
+Background color: dark green / rgb(181,196,151) <br>
+Social media icons color: #777777  <br>
+Icons are horizontal on all sizes. <br>
+Icons are linked to the right external website. They open in a new browser. 
 
 ### Mockups
-The following wireframes were created using Balsamiq to design the website layout options:
-<br>
+The following wireframes were created using Balsamiq to design the website layout options: <br>
 [Small devices](assets/mockups/DSSS_Small.pdf)<br>
 [Medium devices](assets/mockups/DSSS_Medium)<br>
 [Large devices](assets/mockups/DSSS_Large.pdf)
 
 ## Features
 The webpage consists of the following features:<br><br>
-__Bootstrap form__<br>
-The sign-up form uses Bootstrap form features.<br>
-Radio buttons, to choose the preferred options.<br>
-The form has required text fields for the name and email address.
-<br><br>
 __Bootstrap Icons__<br>
-All grey icons are used in the footer for social media, linked to the right place.<br>
-In the fixed header is a home icon, linked to the _index.html_.<br>
-In the fixed header is a _hamburger_ icon only on small and medium devices.<br>
-Next to a lot of titles is a playful icon, they are not linked.
-<br><br>
-__Bootstrap Button__<br>
-The sign-up form uses a Bootstrap button, which is styled with CSS.
-<br><br>
-__Bootstrap Navbar__<br>
-Makes the _locations_ button a drop down list.
+All grey icons are used in the footer for social media.<br>
+In the fixed header is a _hamburger_ icon only on small and medium devices.
 <br><br>
 __Google Maps__<br>
-Each location has his own API key and his own JavaScript file.
+All locations are in one Google Map, with one API key. <br>
+The corresponding JavaScript file is called map.js. <br>
+Each locations has it's own pop-up with the location name.
 <br><br>
+__Clock__<br>
+JavaScript Clock. <br>
+The corresponding JavaScript file is called clock.js. 
 
 ## Technologies
 
@@ -120,7 +126,6 @@ Each location has his own API key and his own JavaScript file.
 ### Frameworks / Tools / Libraries
 [Balsamiq](https://balsamiq.com.) for the mockups.<br>
 [Bootstrap](https://getbootstrap.com/) for the collapsible navbar, button and the footer icons<br>
-[Google Fonts](https://fonts.google.com/) for the font family 'Noto Sans JP'<br>
 [Gitpod](https://www.gitpod.io/) was the IDE used to write the code for this website<br>
 [GitHub](https://github.com/) for version control
 
@@ -162,13 +167,10 @@ __Footer__<br>
 In the footer the social media links will be found, which are external links.
 There are also contact icons, which will can be used to get in contact right away.
 ## Testing results
-HTML validator tested on the following pages:
-index.html
-![](assets/screenshots/html_validator.PNG)
-<br>
-CSS validator tested on the following page:
-style.css<br>
-![](assets/screenshots/css_validator.PNG)
+HTML validator tested on the following page: <br>
+index.html <br>
+CSS validator tested on the following page: <br>
+style.css <br>
 
 ## Deployment
 I started working on this project in Repl.it because 
