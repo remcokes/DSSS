@@ -138,7 +138,7 @@ p{
   }
 .no-transition {
   transition: none;
-  transition-timing-function: none;
+  transition-timing-function: linear;
 }
 
 /* Locations */
