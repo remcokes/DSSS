@@ -134,7 +134,7 @@ The corresponding JavaScript file is called clock.js.
 [HTML Validator](https://validator.w3.org/) for testing the HTML code<br>
 [CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code<br>
 Google Chrome Developer Tools for testing different device sizes<br>
-[Responsinator](https://www.responsinator.com/)
+[Responsinator](https://www.responsinator.com/) for testing different device sizes 
 
 ## Testing
 
