@@ -88,6 +88,7 @@ __Locations__<br>
 Three repeating colors: dark green / rgb(181,196,151), light gray / #E8E8E8, light green / rgb(214,230,214). <br>
 Each location has a marker in front of the location name. The marker matches with the marker on the Google Map. <br>
 The text area's and the images are the same size. <br>
+Every location in the nav-bar is linked to the location on the website. When the location in the nav-bar is clicked, you will go to the right location on the website. This is an internal location link.<br>
 
 __Footer__<br>
 Background color: dark green / rgb(181,196,151) <br>
