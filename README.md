@@ -48,7 +48,7 @@ __Header:__ <br>
 Same fixed header on every page.<br>
 
 __Menu:__ <br>
-On large devices: 
+On large devices: you see all the locations
 On medium and small devices:
 
 __Footer:__ <br>
