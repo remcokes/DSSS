@@ -47,14 +47,23 @@ And for the Javascript order:
 __Header:__ <br>
 Same fixed header on every page.<br>
 
-__Menu:__ <br>
+__Location_Menu:__ <br>
 On large devices: you see all the locations
-On medium and small devices:
+On medium and small devices: all locations are behind a hamburger menu
 
-__Footer:__ <br>
-The footer is 
+__Clock:__ <br>
+I have made css rules to make the clock visible on every device
 
 __Maps:__ 
+On the Google map you see all the speedsurf locations with the name.
+It is visible on all the devices
+
+__Locations:__ <br>
+On large devices: you see all the locations with a photo on the right
+On medium and small devices: all locations are below each other and the photos in between 
+
+__Footer:__ <br>
+I have made css rules for the footer so that it has the correct format on all different devices
 
 ### Surface
 All text with font family: 'Noto Sans JP'.<br>
