@@ -54,7 +54,7 @@ On medium and small devices: all locations are behind a hamburger menu
 __Clock:__ <br>
 I have made css rules to make the clock visible on every device
 
-__Maps:__ 
+__Maps:__ <br>
 On the Google map you see all the speedsurf locations with the name.
 It is visible on all the devices
 
