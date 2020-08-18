@@ -134,6 +134,7 @@ The corresponding JavaScript file is called clock.js.
 [HTML Validator](https://validator.w3.org/) for testing the HTML code<br>
 [CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code<br>
 Google Chrome Developer Tools for testing different device sizes
+[Responsinator](https://www.responsinator.com/)
 
 ## Testing
 
@@ -153,10 +154,6 @@ Through the _Google Chrome Developer Tools_ I tested the following types:<br>
   <li>Surface Duo (portrait: 450x500 & landscape 600x450)
   <li>Galaxy Fold (portrait: 280x653 & landscape 653x280)
 </ul>
-
-This site was also tested in [Responsinator](https://www.responsinator.com/).<br>
-![](assets/screenshots/small_devices.png)
-<br><br>
 
 __Header__<br>
 The header is fixed and responsive to small, medium and large devices.
