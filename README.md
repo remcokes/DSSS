@@ -125,15 +125,15 @@ The corresponding JavaScript file is called clock.js.
 [JavaScript](https://en.wikipedia.org/wiki/JavaScript) for the Google Maps, header image quote and required fields of the sign up form.
 
 ### Frameworks / Tools / Libraries
-[Balsamiq](https://balsamiq.com.) for the mockups.<br>
-[Bootstrap](https://getbootstrap.com/) for the collapsible navbar, button and the footer icons<br>
-[Gitpod](https://www.gitpod.io/) was the IDE used to write the code for this website<br>
+[Balsamiq](https://balsamiq.com.) for the mockups <br>
+[Bootstrap](https://getbootstrap.com/) for the collapsible navbar and the social media icons <br>
+[Gitpod](https://www.gitpod.io/) was the IDE used to write the code for this website <br>
 [GitHub](https://github.com/) for version control
 
 ### Testing
-[HTML Validator](https://validator.w3.org/) for testing the HTML code<br>
-[CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code<br>
-Google Chrome Developer Tools for testing different device sizes<br>
+[HTML Validator](https://validator.w3.org/) for testing the HTML code <br>
+[CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code <br>
+Google Chrome Developer Tools for testing different device sizes <br>
 [Responsinator](https://www.responsinator.com/) for testing different device sizes 
 
 ## Testing
