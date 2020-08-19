@@ -185,7 +185,7 @@ HTML validator tested on the following file: index.html. No errors found. <br>
 CSS validator tested on the following file: style.css. No errors found. <br>
 
 ## Deployment
-I started working on this project in Repl.it because this my hours in GitPod are limited.
+I started working on this project in Repl.it because this my hours in GitPod are limited. 
 
 This website contains the following map:
 <ul>
