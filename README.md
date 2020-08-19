@@ -1,4 +1,4 @@
-# Dutch Speed Surf Spots
+# Dutch Speed Surfing Spots
 
 ## Demo
 [Live website](https://remcokes.github.io/DSSS/)
